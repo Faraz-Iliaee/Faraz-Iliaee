@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Faraz-Iliaee
+- 👋 Hi, I’m Faraz-Iliaee
 - 👀 I’m interested in Chemometrics and Cheminformatics
 - 🌱 I’m currently learning Machine and Deep Learning Algorithms
 - 📫 You can reach me at faraziliaee@gmail.com
