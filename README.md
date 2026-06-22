@@ -5,7 +5,7 @@
 
 🌎 Interested in Environmental Contaminants • Mass Spectrometry • Chemometrics • Cheminformatics
 
-💻 Have experience working with R • Python for Data Analysis and Computational Modeling
+💻 Have experience working with R and Python for Data Analysis and Computational Modeling
 
 🧪 MSc Chemistry, Concordia University
 
