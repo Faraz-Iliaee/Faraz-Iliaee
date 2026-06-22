@@ -1,11 +1,11 @@
 
 # Hi, I'm Faraz 👋
 
-🔬 Analytical Chemist | Environmental Science
+🔬 Analytical Chemist | Data Scientist
 
-🌎 Environmental Contaminants • Mass Spectrometry • Chemometrics • Cheminformatics
+🌎 Interested in Environmental Contaminants • Mass Spectrometry • Chemometrics • Cheminformatics
 
-💻 R • Python • Data Analysis • Computational Modeling
+💻 Have experience working with R • Python for Data Analysis and Computational Modeling
 
 🧪 MSc Chemistry, Concordia University
 
@@ -13,7 +13,7 @@
 
 🚴 When I'm not in the lab, you'll usually find me hiking, cycling, surfing, or exploring the outdoors
 
-📫 Reach me at: faraziliaee@gmail.com
+📫 Reach me at: faraziliaee@mail.concordia.ca
 
 ---
 
